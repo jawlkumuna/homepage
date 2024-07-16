@@ -54,7 +54,8 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className="mt-auto">
+      <footer className="mt-auto w-full text-center">
+        <hr />
         2024 - wubwub
       </footer>
     </main>
